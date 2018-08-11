@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40622" started-at="2018-07-19T14:36:40Z" finished-at="2018-07-19T14:37:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40622" started-at="2018-07-19T14:36:40Z" finished-at="2018-07-19T14:37:20Z">
+      <class name="pomDemoTest.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pomDemoTest.LoginTest@4439f31e]" name="setUp" is-config="true" duration-ms="32602" started-at="2018-07-19T20:06:40Z" finished-at="2018-07-19T20:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:pomDemoTest.LoginTest@4439f31e]" name="login" duration-ms="7984" started-at="2018-07-19T20:07:12Z" finished-at="2018-07-19T20:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- pomDemoTest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
